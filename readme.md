@@ -6,9 +6,9 @@ Relationship DBs store data in tables, made up of rows using primary_keys
 
 ## Q2
 
- One to One it doesnt matter where the FK is stored
- One to Many FK is stored in the Many / Children)
- Many to Many needs a JOIN table
+ 1-1: One to One it doesnt matter where the FK is stored
+ 1-N: One to Many FK is stored in the Many / Children)
+ N-N: Many to Many needs a JOIN table
 
 ## Q3
 
